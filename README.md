@@ -25,4 +25,4 @@ Com base na base bruta foi elaborado o seguinte roteiro de análise:
 
 10# Onde ocorreram as prisões? Rua Helvetia, Alameda Dino Bueno, Alameda Glete, Avenida São João e Rua Amaral Gurgel. Para chegar nesse resultado fizemos uma tabela dinâmica apenas na coluna “Local da ocorrência” para identificar as ruas em comuns; mesmo assim, foi necessário fazer um trabalho manual, já que haviam entradas diferentes para o mesmo endereço. Juntamos manualmente e chegamos nas ruas onde ocorrerão as prisões.
 
-A elaboração do roteiro e criação de pauta foi realizada por: Caê Vatiero, Gabriela Cassoli, Heloísa Vasconcelos, Marcela Villar, Rute Damascena e Valmerson Barbosa. 
+A elaboração do roteiro e criação de pauta foi realizada por: Caê Vatiero, Gabriela Cassoli, Heloísa Vasconcelos, Marcela Villar, Rute Damascena e Valmerson Silva. 
