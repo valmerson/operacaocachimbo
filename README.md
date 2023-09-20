@@ -3,6 +3,8 @@ Repositório documentando a base e etapas de análise da base de pessoas detidas
 
 A base de dados foi liberada através de um pedido de LAI para a Defensoria Pública do Estado de São Paulo, tendo como referência o material base crua para o relatório "Operação Cachimbo - relatório das detenções em massa realizadas na cracolândia". A tabela foi organizada pela defensoria após o recebimento dos dados da Secretaria Pública do Estado de São Paulo, solicitada via ofício pelo "Núcleo Especializado de Cidadania e dos Direitos Humanos".
 
+**Tratamento:** A base bruta (disponível neste repositório) já havia passado por um tratamento de checagem, padronização e anonimização dos detidos na operação. 
+
 Com base na base bruta foi elaborado o seguinte roteiro de análise:
 
 **1# Qual a faixa etária das pessoas presas na Cracolândia?** *Média de 36 anos. Para chegar neste resultado, somamos as 641 linhas da coluna idade (=somaA2:A641), onde obtivemos a soma 23235. Dividimos isso pela 641 linhas para obter a média, que é de 36,2.* 
