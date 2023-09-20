@@ -1,4 +1,4 @@
-# operacaocachimbo
+# operacao caronte fase IV
 Repositório documentando a base e etapas de análise da base de pessoas detidas durante a operação cachimbo realizada na cracolândia em São Paulo em 2022 como parte da disciplina "Fundamentos e ética do jornalismo de dados" do curso Jornalismo de dados no Insper. 
 
 A base de dados foi liberada através de um pedido de LAI para a Defensoria Pública do Estado de São Paulo, tendo como refferência o material "Operação Cachimbo - relatório das detenções em massa realizadas na cracolândia". Com base na base bruta foi elaborado o seguinte roteiro de análise:
